@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 # 'helloworld' 등록하기
 INSTALLED_APPS = [
     'helloworld',
+    'emaillist',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
